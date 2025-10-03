@@ -1,5 +1,11 @@
 # IBM Generative AI Engineering Professional Certificate Capstone Project
 
+## 🖼️ Imagem Hero
+
+![Hero Image](docs/hero_image.png)
+
+
+
 *[English version below / Versão em inglês abaixo]*
 
 ## 🇧🇷 Português
